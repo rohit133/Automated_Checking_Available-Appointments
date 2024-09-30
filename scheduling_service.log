@@ -1,0 +1,9 @@
+2024-09-30 23:56:26,942 - INFO - Initializing browser...
+2024-09-30 23:56:28,374 - INFO - Browser initialized.
+2024-09-30 23:56:28,375 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-09-30 23:56:38,842 - INFO - Scheduling page loaded.
+2024-09-30 23:56:38,843 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-09-30 23:56:38,843 - INFO - Selecting appointment type: New appointment
+2024-09-30 23:57:07,408 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-09-30 23:57:07,409 - INFO - Setting date preference: October 02, 2024
+2024-09-30 23:57:07,757 - INFO - Fetching available appointment slots...
