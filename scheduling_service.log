@@ -7,3 +7,84 @@
 2024-09-30 23:57:07,408 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
 2024-09-30 23:57:07,409 - INFO - Setting date preference: October 02, 2024
 2024-09-30 23:57:07,757 - INFO - Fetching available appointment slots...
+2024-10-01 00:10:19,633 - INFO - Initializing browser...
+2024-10-01 00:10:21,483 - INFO - Browser initialized.
+2024-10-01 00:10:21,483 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:10:32,425 - INFO - Scheduling page loaded.
+2024-10-01 00:10:32,426 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:10:32,426 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:10:55,273 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:10:55,274 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:10:55,527 - INFO - Fetching available appointment slots...
+2024-10-01 00:10:55,563 - INFO - Initializing browser...
+2024-10-01 00:10:57,792 - INFO - Browser initialized.
+2024-10-01 00:10:57,796 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:11:09,990 - INFO - Scheduling page loaded.
+2024-10-01 00:11:09,991 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:11:09,992 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:11:24,737 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:11:24,737 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:11:24,906 - INFO - Fetching available appointment slots...
+2024-10-01 00:11:24,935 - INFO - Initializing browser...
+2024-10-01 00:11:26,400 - INFO - Browser initialized.
+2024-10-01 00:11:26,401 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:11:43,269 - INFO - Scheduling page loaded.
+2024-10-01 00:11:43,270 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:11:43,271 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:11:58,240 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:11:58,241 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:11:58,418 - INFO - Fetching available appointment slots...
+2024-10-01 00:11:58,445 - INFO - Initializing browser...
+2024-10-01 00:11:59,861 - INFO - Browser initialized.
+2024-10-01 00:11:59,864 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:12:12,244 - INFO - Scheduling page loaded.
+2024-10-01 00:12:12,245 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:12:12,245 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:12:27,405 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:12:27,406 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:12:27,548 - INFO - Fetching available appointment slots...
+2024-10-01 00:12:27,579 - INFO - Initializing browser...
+2024-10-01 00:12:28,931 - INFO - Browser initialized.
+2024-10-01 00:12:28,931 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:12:40,073 - INFO - Scheduling page loaded.
+2024-10-01 00:12:40,074 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:12:40,074 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:12:53,222 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:12:53,225 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:12:53,367 - INFO - Fetching available appointment slots...
+2024-10-01 00:12:53,397 - INFO - Initializing browser...
+2024-10-01 00:12:54,888 - INFO - Browser initialized.
+2024-10-01 00:12:54,888 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:13:06,521 - INFO - Scheduling page loaded.
+2024-10-01 00:13:06,523 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:13:06,523 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:13:20,723 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:13:20,724 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:13:20,872 - INFO - Fetching available appointment slots...
+2024-10-01 00:13:20,911 - INFO - Initializing browser...
+2024-10-01 00:13:22,259 - INFO - Browser initialized.
+2024-10-01 00:13:22,260 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:13:32,041 - INFO - Scheduling page loaded.
+2024-10-01 00:13:32,042 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:13:32,042 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:13:47,721 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:13:47,721 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:13:47,866 - INFO - Fetching available appointment slots...
+2024-10-01 00:13:47,903 - INFO - Initializing browser...
+2024-10-01 00:13:49,302 - INFO - Browser initialized.
+2024-10-01 00:13:49,304 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:13:58,540 - INFO - Scheduling page loaded.
+2024-10-01 00:13:58,540 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:13:58,540 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:14:14,239 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:14:14,239 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:14:14,388 - INFO - Fetching available appointment slots...
+2024-10-01 00:14:14,474 - INFO - Initializing browser...
+2024-10-01 00:14:16,128 - INFO - Browser initialized.
+2024-10-01 00:14:16,129 - INFO - Navigating to https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA..
+2024-10-01 00:14:26,311 - INFO - Scheduling page loaded.
+2024-10-01 00:14:26,313 - INFO - Checking appointments for New appointment with date preference: October 02, 2024
+2024-10-01 00:14:26,313 - INFO - Selecting appointment type: New appointment
+2024-10-01 00:14:40,556 - INFO - Successfully selected appointment option: New Patient Exam - 60 min
+2024-10-01 00:14:40,558 - INFO - Setting date preference: October 02, 2024
+2024-10-01 00:14:40,701 - INFO - Fetching available appointment slots...

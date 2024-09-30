@@ -197,7 +197,14 @@ class SchedulingService:
 
 
 # Usage example
-async def main():
+async def run_appointment_test(appointment_type, preferred_date, expected_slots_greater_than=0):
+    """
+    Run a test for checking available appointments for a given type and date.
+    
+    :param appointment_type: Type of the appointment (e.g., "New appointment", "Emergency appointment", etc.)
+    :param preferred_date: Date to check for appointments (can be None for no preference)
+    :param expected_slots_greater_than: Expected number of available slots (default 0)
+    """
     url = "https://care.425dental.com/schedule-appointments/?_gl=11eu87tj_gcl_auMTY4NjUyNjY2NC4xNzI2MjUyODIw_gaNzc0MzUzODQ3LjE3MjYyNTI4MjA._ga_P7N65JEY18*MTcyNjg2NDgzMi41LjEuMTcyNjg2NDkwMi4wLjAuMA.."
     scheduling_service = SchedulingService(url)
 
@@ -211,11 +218,40 @@ async def main():
         
         # With Date preference
         slots = await scheduling_service.check_available_appointments(appointment_type, preferred_date)
-        print(f"New appointment slots: {slots}")
+         # Validate the number of slots
+        assert len(slots) >= expected_slots_greater_than, (
+            f"Expected at least {expected_slots_greater_than} slots, "
+            f"but found {len(slots)} for {appointment_type} on {preferred_date or 'any date'}"
+        )
+        print(f"Test for {appointment_type} on {preferred_date or 'any date'} - Available slots: {slots}")
     
     finally:
         await scheduling_service.close_browser()
 
+
+
+async def test_all_appointment_types():
+    test_cases = [
+        # (appointment_type, preferred_date, expected_slots_greater_than)
+        ("New appointment", "October 02, 2024", 1),  # Expect at least 1 slot
+        ("New appointment", "October 05, 2024", 0),  # No slots expected
+        ("New appointment", None, 1),                # Any date, expect slots
+
+        ("Emergency appointment", "October 02, 2024", 1),
+        ("Emergency appointment", "October 05, 2024", 0),
+        ("Emergency appointment", None, 1),
+
+        ("Invisalign consultation", "October 02, 2024", 1),
+        ("Invisalign consultation", "October 05, 2024", 0),
+        ("Invisalign consultation", None, 1),
+    ]
+
+    for appointment_type, preferred_date, expected_slots in test_cases:
+        await run_appointment_test(appointment_type, preferred_date, expected_slots)
+
+
+
+
 # Run the script
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(test_all_appointment_types())
